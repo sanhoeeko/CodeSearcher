@@ -1,0 +1,11 @@
+C:\Users\80630\Desktop\CsPySeacher\bin\Debug\CsPySeacher.exe.config
+C:\Users\80630\Desktop\CsPySeacher\bin\Debug\CsPySeacher.exe
+C:\Users\80630\Desktop\CsPySeacher\bin\Debug\CsPySeacher.pdb
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.csproj.AssemblyReference.cache
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.csproj.SuggestedBindingRedirects.cache
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.Form1.resources
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.Properties.Resources.resources
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.csproj.GenerateResource.cache
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.csproj.CoreCompileInputs.cache
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.exe
+C:\Users\80630\Desktop\CsPySeacher\obj\Debug\CsPySeacher.pdb
